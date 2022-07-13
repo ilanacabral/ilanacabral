@@ -2,7 +2,7 @@
 
  🔭 I’m currently working on GFT Brazil
  
- 🌱 I’m currently learning Spark with Scala
+ 🌱 I’m currently learning Spark with Scala, Airflow and Python
  
  📫 How to reach me: https://www.linkedin.com/in/ilanacabral/
  
